@@ -10,6 +10,7 @@ This is an example of a bare bones pokerbot. It only sets up the socket
 necessary to connect with the engine and then always returns the same action.
 It is meant as an example of how a pokerbot should communicate with the engine.
 """
+THRESHOLD=10.0
 class opposer():
     def __init__(self,name):
         self.name=name
@@ -19,18 +20,23 @@ class Game():
     def  __init__(self, opponent):
         self.opponent=opposer(opponent)
         self.current_equity=0
+        self.cardmap={"2":1,"3":2,"4":3,"5":4,"6":5,"7":8,"8":9,"9":10,"10":11,"J":12,"Q":13,"K":14,"A":0}
         self.equity_dic={}
         self.potsize=0
-        self.numBoardCards
+        self.numBoardCards=0
         self.BoardCards=None
         self.lastActions=None
         self.legalActions=None
         self.timebank=0
-        with open('equity.csv', 'rb') as f:
-            reader=csv.reader(f)
-            for row in reader:
-                self.equity_dic[row[1]]=row[2]
-
+        self.button=False
+        self.handId=0
+        self.holeCards=None
+        self.myBank=0
+        self.otherBank=0
+       # with open('equity.csv', 'rb') as f:
+        #    reader=csv.reader(f)
+         #   for row in reader:
+         #               self.equity_dic[row[1]]=row[3]
 
     def play_handler(self,packet):
         if packet[0]=="GETACTION":
@@ -40,7 +46,12 @@ class Game():
         elif packet[0]=="REQUESTKEYVALUES":
             s.send("FINISH\n")
         elif packet[0]=="NEWHAND":
-            pass
+            self.handId=packet[1]
+            self.button=packet[2]
+            self.holeCards=packet[3:7]
+            self.myBank=packet[7]
+            self.otherBank=packet[8]
+            self.timebank=packet[9]
             #self.current_equity=self.equity_dic[" ".join(packet[3:6])]
         else:# handover
             pass
@@ -51,8 +62,8 @@ class Game():
         place+=1
         self.numBoardCards=int(packet[place])
         place+=1
-        self.BoardCards=packet[place:numBoardCards+place]
-        place+=numBoardCards
+        self.BoardCards=packet[place:self.numBoardCards+place]
+        place+=self.numBoardCards
         numLastActions=int(packet[place])
         place+=1
         self.lastActions=packet[place:place+numLastActions]
@@ -62,27 +73,73 @@ class Game():
         self.legalActions=packet[place:place+numLegalActions]
         place+=numLegalActions
         self.timebank=packet[place]
+        
         if self.numBoardCards==0:
-            preflop()
+            self.preflop()
         elif self.numBoardCards==3:
-            flop()
+            self.flop()
         elif self.numBoardCards==4:
-            turn()
+            self.turn()
         else:
-            river()
+            self.river()
 
-        if ("Ah" or "Ac" or "Ad" or "As") in self.BoardCards:
-             s.send("CHECK\n")
-        else:
-            s.send("FOLD\n")
-        def preflop():
+    def equity_calaculate(cards):
             pass
-        def flop:
-            pass
-        def turn:
-            pass
-        def river:
-            pass
+            
+       
+    def preflop1(self):
+            equity = self.equity_dic[self.holeCards]-THRESHOLD
+            if equity<0: #not worth it
+                s.send("FOLD\n")
+            else:
+                bet=self.legalActions[-1].split[":"]
+                betMax=bet[2]
+                betMin=bet[1]
+                curBet=max(equity/26.2445*betMax,betMin)# linear vs linear betting?
+                s.send("RAISE:"+ str(curBet))
+
+    def preflop(self):
+            suit={}
+            card={}
+
+            for i in self.holeCards:
+                if i[1] in suit:
+                    suit[i[1]]+=1
+                else:
+                    suit[i[1]]=1
+
+                if i[0] in card:
+                    card[i[0]]+=1
+                else:
+                    card[i[0]]=1  
+            Fold=False 
+            for i in card.keys():
+                if card[i]>2:
+                    Fold=True
+            if Fold:
+                s.send("FOLD\n")
+            else:
+                if self.button:
+                    s.send("CHECK\n")
+                else:
+                    s.send("CALL\n")
+
+
+    def flop(self):
+            bet=self.legalActions[-1].split(":")
+            betMax=int(bet[2])
+            betMin=int(bet[1])
+            s.send("RAISE:"+ str(betMin)+"\n")
+    def turn(self):
+            bet=self.legalActions[-1].split(":")
+            betMax=int(bet[2])
+            betMin=int(bet[1])
+            s.send("RAISE:"+ str(betMin)+"\n")
+    def river(self):
+            bet=self.legalActions[-1].split(":")
+            betMax=int(bet[2])
+            betMin=int(bet[1])
+            s.send("RAISE:"+ str(betMin)+"\n")
 
 
 

@@ -1,0 +1,1008 @@
+6.176 MIT Pokerbots - RANDOMBOT2 vs SWAGMACHINE2 (stack=200, bb=2)
+Hand #1, RANDOMBOT2 (0), SWAGMACHINE2 (0)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [8d 8s 4h Kc]
+Dealt to SWAGMACHINE2 [Kh As 9s 4d]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #2, SWAGMACHINE2 (1), RANDOMBOT2 (-1)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [6s Tc 4h 8c]
+Dealt to RANDOMBOT2 [Qh 9s Js Kd]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #3, RANDOMBOT2 (0), SWAGMACHINE2 (0)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Ks 8s 3c Jh]
+Dealt to SWAGMACHINE2 [Td 4d 8c Tc]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #4, SWAGMACHINE2 (-2), RANDOMBOT2 (2)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Ks As Tc Ac]
+Dealt to RANDOMBOT2 [Ah Qc 4c 3c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #5, RANDOMBOT2 (3), SWAGMACHINE2 (-3)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Jd 8d 8c 2h]
+Dealt to SWAGMACHINE2 [Qs 3s 6s 5s]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #6, SWAGMACHINE2 (-5), RANDOMBOT2 (5)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [6d 3h 3d 9c]
+Dealt to RANDOMBOT2 [7s Ts 4s 9h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #7, RANDOMBOT2 (6), SWAGMACHINE2 (-6)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [3s 8s 3c Js]
+Dealt to SWAGMACHINE2 [Ac 8d 2h 7s]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #8, SWAGMACHINE2 (-8), RANDOMBOT2 (8)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [8d 4c 2s Kd]
+Dealt to RANDOMBOT2 [Kc 6s As Ac]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #9, RANDOMBOT2 (9), SWAGMACHINE2 (-9)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [8s Jd Qd 8d]
+Dealt to SWAGMACHINE2 [Ks Ad 3s 2c]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #10, SWAGMACHINE2 (-11), RANDOMBOT2 (11)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Qs 9h Tc 7d]
+Dealt to RANDOMBOT2 [4d 7s 9d 6c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #11, RANDOMBOT2 (12), SWAGMACHINE2 (-12)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [3s 7h 2d Tc]
+Dealt to SWAGMACHINE2 [7d Qd Ac Jd]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #12, SWAGMACHINE2 (-11), RANDOMBOT2 (11)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Kc 2d 9c 6d]
+Dealt to RANDOMBOT2 [Kh 2c Ad 9h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #13, RANDOMBOT2 (12), SWAGMACHINE2 (-12)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Tc 7h Jh Qd]
+Dealt to SWAGMACHINE2 [9s 6d Ah Th]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #14, SWAGMACHINE2 (-11), RANDOMBOT2 (11)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [3h 6c Js Kh]
+Dealt to RANDOMBOT2 [4c Ks 2c Kc]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #15, RANDOMBOT2 (12), SWAGMACHINE2 (-12)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [9d 2d 7h Tc]
+Dealt to SWAGMACHINE2 [Ts Kd 5s Jd]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [9s Qs 3s]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 folds
+Uncalled bet of 3 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (10)
+
+Hand #16, SWAGMACHINE2 (-7), RANDOMBOT2 (7)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Kc 8d 2c 7c]
+Dealt to RANDOMBOT2 [3s 9c Qc 2h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #17, RANDOMBOT2 (8), SWAGMACHINE2 (-8)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7h Kc 3d Qh]
+Dealt to SWAGMACHINE2 [9h Ah 9s 6h]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [6s 3c 2h]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [6s 3c 2h] [9d]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** RIVER *** (4) [6s 3c 2h 9d] [Kd]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 raises to 18
+SWAGMACHINE2 raises to 30
+RANDOMBOT2 folds
+Uncalled bet of 12 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (40)
+
+Hand #18, SWAGMACHINE2 (12), RANDOMBOT2 (-12)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [7s Qc 6c 6d]
+Dealt to RANDOMBOT2 [6h 8s 9c 9d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #19, RANDOMBOT2 (-11), SWAGMACHINE2 (11)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Ks Tc 7h Qd]
+Dealt to SWAGMACHINE2 [5d 3d 3c 2d]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [9d Qc 4s]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [9d Qc 4s] [Qs]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** RIVER *** (4) [9d Qc 4s Qs] [3s]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 folds
+Uncalled bet of 2 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (8)
+
+Hand #20, SWAGMACHINE2 (15), RANDOMBOT2 (-15)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Ks 9s Qs Ad]
+Dealt to RANDOMBOT2 [8c 9c Js 6s]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #21, RANDOMBOT2 (-14), SWAGMACHINE2 (14)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Jd Js 5s Ks]
+Dealt to SWAGMACHINE2 [7d 9d 6c 6d]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #22, SWAGMACHINE2 (12), RANDOMBOT2 (-12)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [7s Qd 7c Qs]
+Dealt to RANDOMBOT2 [8s 4s 3d 5c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #23, RANDOMBOT2 (-11), SWAGMACHINE2 (11)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Jd Th 6c Ah]
+Dealt to SWAGMACHINE2 [Kh 5d 6d Ad]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [2c Js 2s]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 calls
+*** TURN *** (12) [2c Js 2s] [6s]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** RIVER *** (12) [2c Js 2s 6s] [3c]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+RANDOMBOT2 shows [Jd Th 6c Ah]
+SWAGMACHINE2 shows [Kh 5d 6d Ad]
+RANDOMBOT2 wins the pot (12)
+
+Hand #24, SWAGMACHINE2 (5), RANDOMBOT2 (-5)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Tc 4c Qd Jc]
+Dealt to RANDOMBOT2 [Ad 6s 4d Td]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #25, RANDOMBOT2 (-4), SWAGMACHINE2 (4)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [8c Td 8s Ks]
+Dealt to SWAGMACHINE2 [Kd Th 2s Qd]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [3d Kc Qh]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 raises to 18
+SWAGMACHINE2 raises to 30
+RANDOMBOT2 raises to 48
+SWAGMACHINE2 raises to 66
+RANDOMBOT2 folds
+Uncalled bet of 18 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (100)
+
+Hand #26, SWAGMACHINE2 (54), RANDOMBOT2 (-54)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Ac Kh 8s 5h]
+Dealt to RANDOMBOT2 [3d 2c 4h 5c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #27, RANDOMBOT2 (-53), SWAGMACHINE2 (53)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [6s 4c 2d 5c]
+Dealt to SWAGMACHINE2 [9d 4s 9c Jc]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [As Jd 8h]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 raises to 9
+SWAGMACHINE2 raises to 14
+RANDOMBOT2 raises to 27
+SWAGMACHINE2 raises to 40
+RANDOMBOT2 folds
+Uncalled bet of 13 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (58)
+
+Hand #28, SWAGMACHINE2 (82), RANDOMBOT2 (-82)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [7h 5h Td Kd]
+Dealt to RANDOMBOT2 [Th 2d Jd 6s]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #29, RANDOMBOT2 (-81), SWAGMACHINE2 (81)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [6d Ts 6c 3c]
+Dealt to SWAGMACHINE2 [5d Jd Qs 7c]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #30, SWAGMACHINE2 (79), RANDOMBOT2 (-79)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [9c 3h Qc 3s]
+Dealt to RANDOMBOT2 [Qs 6s 8d Jc]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #31, RANDOMBOT2 (-78), SWAGMACHINE2 (78)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Jh 8c 2d Ac]
+Dealt to SWAGMACHINE2 [Td 2h 9d 6h]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [6s 4h 9h]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [6s 4h 9h] [8d]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 folds
+Uncalled bet of 2 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (8)
+
+Hand #32, SWAGMACHINE2 (82), RANDOMBOT2 (-82)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Th As 4s 6s]
+Dealt to RANDOMBOT2 [5s 2d 4h 5d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #33, RANDOMBOT2 (-81), SWAGMACHINE2 (81)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [3d Kd 9c Ks]
+Dealt to SWAGMACHINE2 [8h 6c Ts 9h]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #34, SWAGMACHINE2 (82), RANDOMBOT2 (-82)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Kc Td Ts 7s]
+Dealt to RANDOMBOT2 [4s Kh 2s 6c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #35, RANDOMBOT2 (-81), SWAGMACHINE2 (81)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [2c Ac 6c 3d]
+Dealt to SWAGMACHINE2 [4c As Tc Th]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #36, SWAGMACHINE2 (79), RANDOMBOT2 (-79)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [6h 9s 6s 4c]
+Dealt to RANDOMBOT2 [Ac 7h Kh 5h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #37, RANDOMBOT2 (-78), SWAGMACHINE2 (78)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Tc Ad Qs 9h]
+Dealt to SWAGMACHINE2 [Qd 2h 5c Jd]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #38, SWAGMACHINE2 (79), RANDOMBOT2 (-79)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Jd 6s 3s 6d]
+Dealt to RANDOMBOT2 [8d Js Kc 6h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #39, RANDOMBOT2 (-78), SWAGMACHINE2 (78)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [6d 3d 9s Ac]
+Dealt to SWAGMACHINE2 [7h Tc 3s Ad]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #40, SWAGMACHINE2 (76), RANDOMBOT2 (-76)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [9c Qc Qs 9h]
+Dealt to RANDOMBOT2 [4d 5c Jc Ts]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #41, RANDOMBOT2 (-75), SWAGMACHINE2 (75)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Tc Qs Qh 8d]
+Dealt to SWAGMACHINE2 [3d 3h Kd Jd]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [8h 4h Td]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [8h 4h Td] [Jh]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** RIVER *** (4) [8h 4h Td Jh] [2h]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 raises to 18
+SWAGMACHINE2 raises to 30
+RANDOMBOT2 raises to 74
+SWAGMACHINE2 raises to 118
+RANDOMBOT2 calls
+RANDOMBOT2 shows [Tc Qs Qh 8d]
+SWAGMACHINE2 shows [3d 3h Kd Jd]
+RANDOMBOT2 wins the pot (240)
+
+Hand #42, SWAGMACHINE2 (-45), RANDOMBOT2 (45)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [8d 8s Ks 7s]
+Dealt to RANDOMBOT2 [Js Th Jh 4h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #43, RANDOMBOT2 (46), SWAGMACHINE2 (-46)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [3h Qs Ts 7h]
+Dealt to SWAGMACHINE2 [Qd Tc 5c Jd]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #44, SWAGMACHINE2 (-45), RANDOMBOT2 (45)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Qs 5h 4c 7c]
+Dealt to RANDOMBOT2 [Qd Js Kh 7s]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #45, RANDOMBOT2 (46), SWAGMACHINE2 (-46)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7d 8d 4s Tc]
+Dealt to SWAGMACHINE2 [Ah 6c 8c Qc]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #46, SWAGMACHINE2 (-48), RANDOMBOT2 (48)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [3s 2c Jc 5s]
+Dealt to RANDOMBOT2 [8s 7d 7h As]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #47, RANDOMBOT2 (49), SWAGMACHINE2 (-49)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [4c Ks 3h Ad]
+Dealt to SWAGMACHINE2 [6d Tc 3s 5c]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #48, SWAGMACHINE2 (-51), RANDOMBOT2 (51)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [5d Kh 8s Kd]
+Dealt to RANDOMBOT2 [As 8c 3h 7h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #49, RANDOMBOT2 (52), SWAGMACHINE2 (-52)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [5s Jh 9s 8c]
+Dealt to SWAGMACHINE2 [8s 2h Qs 7c]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [6h 5h 6s]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [6h 5h 6s] [6c]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** RIVER *** (4) [6h 5h 6s 6c] [9h]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 folds
+Uncalled bet of 2 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (8)
+
+Hand #50, SWAGMACHINE2 (-48), RANDOMBOT2 (48)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Qh 3s 3h 8s]
+Dealt to RANDOMBOT2 [5c Ts 2d Ac]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #51, RANDOMBOT2 (49), SWAGMACHINE2 (-49)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [3s Ts 8c 6d]
+Dealt to SWAGMACHINE2 [5h 5s 4s Qd]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #52, SWAGMACHINE2 (-48), RANDOMBOT2 (48)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Qd 4s 4h 9c]
+Dealt to RANDOMBOT2 [Td 5c 2d 8d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #53, RANDOMBOT2 (49), SWAGMACHINE2 (-49)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Kd Kh 5h 9h]
+Dealt to SWAGMACHINE2 [9d 2d Ah 6s]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #54, SWAGMACHINE2 (-48), RANDOMBOT2 (48)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [2s Ad 8h 2d]
+Dealt to RANDOMBOT2 [4c Td 3c 8c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #55, RANDOMBOT2 (49), SWAGMACHINE2 (-49)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [9s Ts 2s 9d]
+Dealt to SWAGMACHINE2 [Kd 7h 3s 5s]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #56, SWAGMACHINE2 (-48), RANDOMBOT2 (48)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Ks Td 3c 9d]
+Dealt to RANDOMBOT2 [9c Tc 8c 9s]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #57, RANDOMBOT2 (49), SWAGMACHINE2 (-49)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Js 8d 5c 2c]
+Dealt to SWAGMACHINE2 [6h 6d 9h 2d]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [6c Td 3s]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 folds
+Uncalled bet of 3 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (10)
+
+Hand #58, SWAGMACHINE2 (-44), RANDOMBOT2 (44)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Td 7c Kd Ts]
+Dealt to RANDOMBOT2 [6d 4d 5h 2h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #59, RANDOMBOT2 (45), SWAGMACHINE2 (-45)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Th 5c 5h 2d]
+Dealt to SWAGMACHINE2 [Ks 8h 6c 3c]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #60, SWAGMACHINE2 (-47), RANDOMBOT2 (47)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [As Jd Kd 7h]
+Dealt to RANDOMBOT2 [2s Qs 8s Js]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #61, RANDOMBOT2 (48), SWAGMACHINE2 (-48)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [4h 3c Ah 7d]
+Dealt to SWAGMACHINE2 [Ks Qc 4c 6s]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #62, SWAGMACHINE2 (-47), RANDOMBOT2 (47)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Kd 9c Js 8s]
+Dealt to RANDOMBOT2 [6c Kh 7h 6s]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #63, RANDOMBOT2 (48), SWAGMACHINE2 (-48)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Qs 9h Kh 7c]
+Dealt to SWAGMACHINE2 [3h 4c 5c 5d]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #64, SWAGMACHINE2 (-50), RANDOMBOT2 (50)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [6s Td 2h 5c]
+Dealt to RANDOMBOT2 [5s 8s 3h 6h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #65, RANDOMBOT2 (51), SWAGMACHINE2 (-51)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [4d Ah 2s 5h]
+Dealt to SWAGMACHINE2 [5d 6d 4c 5s]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [Tc 7c 4s]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 folds
+Uncalled bet of 2 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (8)
+
+Hand #66, SWAGMACHINE2 (-47), RANDOMBOT2 (47)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [6c 2c 6s 9c]
+Dealt to RANDOMBOT2 [Qd 4c Th 7d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #67, RANDOMBOT2 (48), SWAGMACHINE2 (-48)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7d Td 2c 4h]
+Dealt to SWAGMACHINE2 [5c 3s 2h 7h]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #68, SWAGMACHINE2 (-50), RANDOMBOT2 (50)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [8d Jd 5h Jc]
+Dealt to RANDOMBOT2 [3c Ah Qd Ac]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #69, RANDOMBOT2 (51), SWAGMACHINE2 (-51)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [5c 8h 4d As]
+Dealt to SWAGMACHINE2 [6s 9d Jc 3h]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #70, SWAGMACHINE2 (-50), RANDOMBOT2 (50)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Tc 4h 3s 7s]
+Dealt to RANDOMBOT2 [8h Td 7c Ks]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #71, RANDOMBOT2 (51), SWAGMACHINE2 (-51)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7c Jh Ac 9c]
+Dealt to SWAGMACHINE2 [Kc Ks 2d 5s]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [5h 5d Kd]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 calls
+*** TURN *** (12) [5h 5d Kd] [8h]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** RIVER *** (12) [5h 5d Kd 8h] [6c]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+RANDOMBOT2 shows [7c Jh Ac 9c]
+SWAGMACHINE2 shows [Kc Ks 2d 5s]
+SWAGMACHINE2 wins the pot (12)
+
+Hand #72, SWAGMACHINE2 (-45), RANDOMBOT2 (45)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [8s 5h Qd 7d]
+Dealt to RANDOMBOT2 [Jh Ks 5s Js]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #73, RANDOMBOT2 (46), SWAGMACHINE2 (-46)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7d Ts 6s Jc]
+Dealt to SWAGMACHINE2 [Ac Ks Qc Kc]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #74, SWAGMACHINE2 (-48), RANDOMBOT2 (48)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Jd Ts Jh 4c]
+Dealt to RANDOMBOT2 [Ks 4s 9c Th]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #75, RANDOMBOT2 (49), SWAGMACHINE2 (-49)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [4d Kd Tc Ts]
+Dealt to SWAGMACHINE2 [2c Jc Td Kc]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [Jh 2h 7c]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 raises to 12
+SWAGMACHINE2 raises to 18
+RANDOMBOT2 folds
+Uncalled bet of 6 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (28)
+
+Hand #76, SWAGMACHINE2 (-35), RANDOMBOT2 (35)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Th 8h 4s Ac]
+Dealt to RANDOMBOT2 [6d Jd 4d 8d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #77, RANDOMBOT2 (36), SWAGMACHINE2 (-36)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [9h 4h Js Kc]
+Dealt to SWAGMACHINE2 [Tc Jc 7s 5s]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #78, SWAGMACHINE2 (-38), RANDOMBOT2 (38)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [6c 5h 2d 3d]
+Dealt to RANDOMBOT2 [Qd 9c Kh 9s]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #79, RANDOMBOT2 (39), SWAGMACHINE2 (-39)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7c As 7h 6h]
+Dealt to SWAGMACHINE2 [Kc 2c Kd 5s]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #80, SWAGMACHINE2 (-38), RANDOMBOT2 (38)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Jd 9s As 2c]
+Dealt to RANDOMBOT2 [Ac 3c Ad 4h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #81, RANDOMBOT2 (39), SWAGMACHINE2 (-39)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [5d Ks 2s 2d]
+Dealt to SWAGMACHINE2 [6s 7h 7d 9c]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #82, SWAGMACHINE2 (-41), RANDOMBOT2 (41)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [2d Qd 3h 5c]
+Dealt to RANDOMBOT2 [6d 4d 6h Ac]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #83, RANDOMBOT2 (42), SWAGMACHINE2 (-42)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7d Kh Ts Th]
+Dealt to SWAGMACHINE2 [Ad 3h Qd 7h]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [3c 3d 5h]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [3c 3d 5h] [Js]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 2
+SWAGMACHINE2 raises to 4
+RANDOMBOT2 folds
+Uncalled bet of 2 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (8)
+
+Hand #84, SWAGMACHINE2 (-38), RANDOMBOT2 (38)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [4s 9c 6c 7d]
+Dealt to RANDOMBOT2 [3s Td Kh Kc]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #85, RANDOMBOT2 (39), SWAGMACHINE2 (-39)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [8h Ks 4s Ts]
+Dealt to SWAGMACHINE2 [Jh Qs 3c 4d]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #86, SWAGMACHINE2 (-41), RANDOMBOT2 (41)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [5s Tc 8c 9c]
+Dealt to RANDOMBOT2 [2d 6c 3h 2c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #87, RANDOMBOT2 (42), SWAGMACHINE2 (-42)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [6h Th 2d 5s]
+Dealt to SWAGMACHINE2 [Qh Kc Tc 6c]
+RANDOMBOT2 raises to 5
+SWAGMACHINE2 folds
+Uncalled bet of 3 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #88, SWAGMACHINE2 (-44), RANDOMBOT2 (44)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Jc Qc 4c Kh]
+Dealt to RANDOMBOT2 [5d 2s 5h 9d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #89, RANDOMBOT2 (45), SWAGMACHINE2 (-45)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [7c Jh Jd 9s]
+Dealt to SWAGMACHINE2 [9h 6h Tc As]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #90, SWAGMACHINE2 (-44), RANDOMBOT2 (44)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Qd 3c Kd 3d]
+Dealt to RANDOMBOT2 [Qc 3s 6c 9h]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #91, RANDOMBOT2 (45), SWAGMACHINE2 (-45)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Ts 2h Jc 7d]
+Dealt to SWAGMACHINE2 [4c 6s 5c 7h]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #92, SWAGMACHINE2 (-44), RANDOMBOT2 (44)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Jd Tc Kc Qs]
+Dealt to RANDOMBOT2 [4h 3c 3s Qh]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #93, RANDOMBOT2 (45), SWAGMACHINE2 (-45)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [9d 2d Qh 4s]
+Dealt to SWAGMACHINE2 [5s 6c 4d Jc]
+RANDOMBOT2 raises to 4
+SWAGMACHINE2 folds
+Uncalled bet of 2 returned to RANDOMBOT2
+RANDOMBOT2 wins the pot (4)
+
+Hand #94, SWAGMACHINE2 (-47), RANDOMBOT2 (47)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [9h Ac 4s Th]
+Dealt to RANDOMBOT2 [7s 3d Ad 2d]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #95, RANDOMBOT2 (48), SWAGMACHINE2 (-48)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [2d Kh 4d 6d]
+Dealt to SWAGMACHINE2 [Td 9d Th 5s]
+RANDOMBOT2 calls
+SWAGMACHINE2 checks
+*** FLOP *** (4) [Ks 8c Ad]
+SWAGMACHINE2 checks
+RANDOMBOT2 checks
+*** TURN *** (4) [Ks 8c Ad] [Jd]
+SWAGMACHINE2 checks
+RANDOMBOT2 bets 3
+SWAGMACHINE2 raises to 6
+RANDOMBOT2 folds
+Uncalled bet of 3 returned to SWAGMACHINE2
+SWAGMACHINE2 wins the pot (10)
+
+Hand #96, SWAGMACHINE2 (-43), RANDOMBOT2 (43)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [Qc 9c 7s Js]
+Dealt to RANDOMBOT2 [Ah 5d Kh 6c]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #97, RANDOMBOT2 (44), SWAGMACHINE2 (-44)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [Jh 7d 9d Jc]
+Dealt to SWAGMACHINE2 [4h Th 2s Jd]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #98, SWAGMACHINE2 (-43), RANDOMBOT2 (43)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [2c 8s 3s 6c]
+Dealt to RANDOMBOT2 [7d 5s Qs Td]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+
+Hand #99, RANDOMBOT2 (44), SWAGMACHINE2 (-44)
+RANDOMBOT2 posts the blind of 1
+SWAGMACHINE2 posts the blind of 2
+Dealt to RANDOMBOT2 [9h Qs 3c 3h]
+Dealt to SWAGMACHINE2 [Ts 7h Ad Qc]
+RANDOMBOT2 folds
+SWAGMACHINE2 wins the pot (3)
+
+Hand #100, SWAGMACHINE2 (-43), RANDOMBOT2 (43)
+SWAGMACHINE2 posts the blind of 1
+RANDOMBOT2 posts the blind of 2
+Dealt to SWAGMACHINE2 [7c 3h 6d 2h]
+Dealt to RANDOMBOT2 [9d 4h Qc Jd]
+SWAGMACHINE2 folds
+RANDOMBOT2 wins the pot (3)
+

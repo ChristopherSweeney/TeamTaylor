@@ -74,72 +74,7 @@ class Game():
         place+=numLegalActions
         self.timebank=packet[place]
         
-        if self.numBoardCards==0:
-            self.preflop()
-        elif self.numBoardCards==3:
-            self.flop()
-        elif self.numBoardCards==4:
-            self.turn()
-        else:
-            self.river()
-
-    def equity_calaculate(cards):
-            pass
-            
-       
-    def preflop1(self):
-            equity = self.equity_dic[self.holeCards]-THRESHOLD
-            if equity<0: #not worth it
-                s.send("FOLD\n")
-            else:
-                bet=self.legalActions[-1].split[":"]
-                betMax=bet[2]
-                betMin=bet[1]
-                curBet=max(equity/26.2445*betMax,betMin)# linear vs linear betting?
-                s.send("RAISE:"+ str(curBet))
-
-    def preflop(self):
-            suit={}
-            card={}
-
-            for i in self.holeCards:
-                if i[1] in suit:
-                    suit[i[1]]+=1
-                else:
-                    suit[i[1]]=1
-
-                if i[0] in card:
-                    card[i[0]]+=1
-                else:
-                    card[i[0]]=1  
-            Fold=False 
-            for i in card.keys():
-                if card[i]>2:
-                    Fold=True
-            if Fold:
-                s.send("FOLD\n")
-            else:
-                if self.button:
-                    s.send("CHECK\n")
-                else:
-                    s.send("CALL\n")
-
-
-    def flop(self):
-            bet=self.legalActions[-1].split(":")
-            betMax=int(bet[2])
-            betMin=int(bet[1])
-            s.send("RAISE:"+ str(betMin)+"\n")
-    def turn(self):
-            bet=self.legalActions[-1].split(":")
-            betMax=int(bet[2])
-            betMin=int(bet[1])
-            s.send("RAISE:"+ str(betMin)+"\n")
-    def river(self):
-            bet=self.legalActions[-1].split(":")
-            betMax=int(bet[2])
-            betMin=int(bet[1])
-            s.send("RAISE:"+ str(betMin)+"\n")
+      
 
 
 
